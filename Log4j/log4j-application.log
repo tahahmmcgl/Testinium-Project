@@ -1,0 +1,30 @@
+2022-07-22 02:18:35 INFO  Hooks:24 - Driver start succesfully
+2022-07-22 02:18:35 INFO  runner:25 - Home page checked
+2022-07-22 02:18:36 INFO  runner:27 - Searched with the word 'Roman'
+2022-07-22 02:18:37 INFO  runner:29 - Product Selected
+2022-07-22 02:18:37 INFO  runner:31 - Clicked add to cart
+2022-07-22 02:18:37 INFO  runner:33 - Checked the number of products added to the cart
+2022-07-22 02:18:37 INFO  runner:35 - Clicked cart button
+2022-07-22 02:18:38 INFO  runner:37 - Clicked go cart button
+2022-07-22 02:18:38 INFO  runner:39 - amount increased
+2022-07-22 02:18:38 INFO  runner:41 - Clicked refresh icon
+2022-07-22 02:18:39 INFO  runner:43 - Refreshing message checked
+2022-07-22 02:18:39 INFO  runner:45 - Clicked the cross button
+2022-07-22 02:18:39 INFO  runner:47 - Cart message checked, cart is null
+2022-07-22 02:18:39 INFO  runner:49 - Cart icon checked, card is null
+2022-07-22 02:18:39 INFO  Hooks:29 - Driver will be close
+2022-07-22 02:21:34 INFO  Hooks:24 - Driver start succesfully
+2022-07-22 02:21:34 INFO  runner:25 - Home page checked
+2022-07-22 02:21:35 INFO  runner:27 - Searched with the word 'Roman'
+2022-07-22 02:21:36 INFO  runner:29 - Product Selected
+2022-07-22 02:21:36 INFO  runner:31 - Clicked add to cart
+2022-07-22 02:21:37 INFO  runner:33 - Checked the number of products added to the cart
+2022-07-22 02:21:37 INFO  runner:35 - Clicked cart button
+2022-07-22 02:21:37 INFO  runner:37 - Clicked go cart button
+2022-07-22 02:21:38 INFO  runner:39 - amount increased
+2022-07-22 02:21:38 INFO  runner:41 - Clicked refresh icon
+2022-07-22 02:21:38 INFO  runner:43 - Refreshing message checked
+2022-07-22 02:21:38 INFO  runner:45 - Clicked the cross button
+2022-07-22 02:21:38 INFO  runner:47 - Cart message checked, cart is null
+2022-07-22 02:21:38 INFO  runner:49 - Cart icon checked, card is null
+2022-07-22 02:21:38 INFO  Hooks:29 - Driver will be close

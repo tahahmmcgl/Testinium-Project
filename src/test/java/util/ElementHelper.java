@@ -89,6 +89,12 @@ public class ElementHelper {
         return wait.until(ExpectedConditions.titleIs(text));
     }
 
+
+
+    public void clearElement(By key){
+        driver.findElement(key).clear();
+    }
+
     /**
      * @param key
      * @param attr
@@ -184,4 +190,9 @@ public class ElementHelper {
         ((JavascriptExecutor) driver).executeScript(scrollElementIntoMiddle, element);
 
     }
+
+    /**
+     * @param element
+     */
+
 }

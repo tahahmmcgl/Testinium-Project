@@ -21,7 +21,7 @@ public class Hooks {
         properties = ConfigReader.initialize_Properties();
         String browser= properties.getProperty("browser");
         driver = DriverFactory.initialize_Driver(browser);
-
+        log.info("Driver start succesfully");
     }
 
     @After
