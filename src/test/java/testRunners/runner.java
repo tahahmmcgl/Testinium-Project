@@ -7,6 +7,7 @@ import pages.CartPage;
 import pages.HomePage;
 import pages.ProductPage;
 import pages.SearchPage;
+import util.CsvReader;
 import util.DriverFactory;
 import util.Hooks;
 
@@ -23,8 +24,8 @@ public class runner extends Hooks {
 
         homePage.checkHomePage();
         log.info("Home page checked");
-        homePage.writeSearchBox("roman");
-        log.info("Searched with the word 'Roman'");
+        homePage.writeSearchBox(CsvReader.readCsvFile());
+        log.info("Searched with the word "+CsvReader.readCsvFile());
         searchPage.selectProduct();
         log.info("Product Selected");
         productPage.clickAddToCart();
